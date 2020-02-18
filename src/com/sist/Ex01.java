@@ -27,6 +27,11 @@ public class Ex01 { // 클래스를 만들 때 대문자로 시작
 		System.out.println();
 		System.out.println("저는 이기병입니다.");
 		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 		/*
 		 * System.out : 표준 출력장치 (모니터. 콘솔창)
